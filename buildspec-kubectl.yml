@@ -97,7 +97,7 @@ phases:
                          cpu: 500m
                       requests:
                          cpu: 200m
-          EOF
+          EOF 
 cache:
   paths:
     - '/root/.m2/**/*'
